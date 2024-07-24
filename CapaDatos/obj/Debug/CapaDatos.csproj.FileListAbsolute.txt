@@ -1,0 +1,18 @@
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\bin\Debug\CapaDatos.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaDatos\obj\Debug\CapaDatos.pdb

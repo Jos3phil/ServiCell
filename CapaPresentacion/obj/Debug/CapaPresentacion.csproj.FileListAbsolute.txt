@@ -1,0 +1,81 @@
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.frmLogin.resources
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\Proyecto DS\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\ko-KP\CapaPresentacion.resources.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\formulario_principal.FormPrincipal.resources
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\formulario_principal.FormPrincipal.ko-KP.resources
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\ko-KP\CapaPresentacion.resources.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\andri\Downloads\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\ko-KP\CapaPresentacion.resources.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\formulario_principal.FormPrincipal.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.procesos.frmVentas.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\formulario_principal.FormPrincipal.ko-KP.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\ko-KP\CapaPresentacion.resources.dll
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\appFormularios_Proyecto.frmProducto.resources
+C:\Users\andri\Desktop\clases 5to\7timo\desarrollo de softawre\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\frmProveedor.Form1.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\ko-KP\CapaPresentacion.resources.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\capaLogica.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\capaLogica.pdb
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Cliente.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\formulario_principal.FormPrincipal.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\frmProveedor.Form1.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\appFormularios_Proyecto.frmProducto.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.procesos.frmVentas.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\formulario_principal.FormPrincipal.ko-KP.resources
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\ko-KP\CapaPresentacion.resources.dll
+C:\proyectos\DS_Sistema_Transacciones\Sistema_venta_celular\Sistema_venta_celular\Sistema_venta_celular\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
