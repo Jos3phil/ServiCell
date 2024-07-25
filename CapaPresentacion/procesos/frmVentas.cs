@@ -13,6 +13,9 @@ namespace CapaPresentacion.procesos
 {
     public partial class frmVentas : Form
     {
+        public static class UsuarioActual {
+            public static string IdEmpleado { get; set; }
+        }
         cVenta oVenta = new cVenta();
         public frmVentas()
         {
@@ -46,7 +49,7 @@ namespace CapaPresentacion.procesos
 
                 // Asignar los valores de los controles a la instancia existente de cVenta
                 oVenta.IdVenta = Guid.NewGuid().ToString(); // Generar un nuevo ID para la venta
-                oVenta.IdEmpleado = "E00002"; // Asigna el ID del empleado (puedes cambiar esto según tu lógica)
+                oVenta.IdEmpleado = UsuarioActual.IdEmpleado; // Asigna el ID del empleado (puedes cambiar esto según tu lógica)
                 oVenta.TipoDocumento = cmbTipoDocumento.SelectedItem.ToString();
                 oVenta.NumeroDocumento = txtDNICliente.Text;
                 oVenta.IdCliente = "C00001";
