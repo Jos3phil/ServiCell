@@ -48,6 +48,7 @@
     <Compile Include="cProveedor.cs" />
     <Compile Include="cRepuesto.cs" />
     <Compile Include="cUsuario.cs" />
+    <Compile Include="cVenta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
